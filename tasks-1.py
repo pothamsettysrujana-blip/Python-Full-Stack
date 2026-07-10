@@ -99,3 +99,32 @@ if attendence>=70:
     print("eligible for exam")
 else:
     print("not eligible")'''
+
+#multiple elif
+'''bakery = int(input())
+if bakery == 1200:
+    print("redvelvet cake")
+elif bakery == 100:
+    print("almond cake")
+elif bakery ==800:
+  print("choclate cake")
+elif bakery == 600:
+ print("butter scotch cake")
+else:
+    print("cake is not available")'''
+
+
+'''pizza = input()
+if pizza == "bbq pizza":
+    print("800")
+elif pizza == "crispy chicken pizza":
+    print("600")
+elif pizza == "paneer pizza":
+    print("400")
+elif pizza == "corn pizza":
+    print("200")
+elif pizza == "french&coke":
+    print("150")'''
+
+
+
